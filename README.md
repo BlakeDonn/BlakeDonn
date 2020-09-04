@@ -5,6 +5,7 @@
 - :package:&nbsp;  Package Experience: Mocha / Chai, CanvasJS, Express
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
+- :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [email](blake.donnelly2@yahoo.com)
 
 
