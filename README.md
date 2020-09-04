@@ -11,3 +11,6 @@
 ___
 [![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn)](https://github.com/anuraghazra/github-readme-stats)
 ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlakeDonn)](https://github.com/travisgm92/github-readme-stats)        
+![Travis' github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&show_icons=true&theme=dark)
