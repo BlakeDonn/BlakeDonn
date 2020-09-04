@@ -4,10 +4,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently in Mod 2 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :video_game: 
+- :computer: Languages: JavaScript, HTML, CSS
+- :package: Package Experience: Mocha / Chai, CanvasJS, Express
 - 📫 Contact me! 
 [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || 
 [email](blake.donnelly2@yahoo.com)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: 
+- :video_game: Video Game enthusiast 
+
 
