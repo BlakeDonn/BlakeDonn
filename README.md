@@ -3,7 +3,7 @@
 - 🔭&nbsp;  I’m currently in Mod 2 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :computer:&nbsp;  Languages: 
 <img align="left" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left"
-<img align="left" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png" /><img align="left"
+<img align="left" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left"
 <img align="left" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left"
 - :package:&nbsp;  Package Experience: Mocha / Chai, CanvasJS, Express
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
