@@ -10,7 +10,7 @@
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [email](blake.donnelly2@yahoo.com)
 
 ___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=ruby,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=ruby,shell,GLSL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark)
 
  
