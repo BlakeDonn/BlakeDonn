@@ -4,9 +4,9 @@
 - :computer:&nbsp;  Languages: 
 <img align="" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />  <img align="" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />  <img align="" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> </br >
 - :package:&nbsp;  Package Experience: Mocha / Chai, CanvasJS, Express
+- :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
-- :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
 
 ___
