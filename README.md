@@ -1,7 +1,7 @@
 ### Blake Donnelly
 
 - 🔭&nbsp;  I’m currently in Mod 2 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :computer:&nbsp;  Languages: JavaScript, HTML, CSS
+- :computer:&nbsp;  Languages: ![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png), HTML, CSS
 - :package:&nbsp;  Package Experience: Mocha / Chai, CanvasJS, Express
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
