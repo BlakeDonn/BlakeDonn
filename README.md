@@ -4,7 +4,7 @@
 - :computer:&nbsp;  Languages: JavaScript, HTML, CSS
 - :package:&nbsp;  Package Experience: Mocha / Chai, CanvasJS, Express
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
-- :video_game:&nbsp;  Video Game enthusiast 
+- :video_game:&nbsp;  Video Game Enthusiast 
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [email](blake.donnelly2@yahoo.com)
 
 
