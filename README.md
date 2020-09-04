@@ -9,4 +9,5 @@
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [email](blake.donnelly2@yahoo.com)
 
 ___
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn)](https://github.com/anuraghazra/github-readme-stats)
+[![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn)](https://github.com/anuraghazra/github-readme-stats)
+![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true)
