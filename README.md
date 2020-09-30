@@ -9,7 +9,7 @@
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
-- Ask Me about vim!
+- Ask Me about [vim](https://www.vim.org/)
 
 ___
 
