@@ -9,7 +9,7 @@
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
-- <img align="" alt="javascript logo" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
+- <img align="" alt="javascript logo" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Neovim-mark-flat.svg/1200px-Neovim-mark-flat.svg.png" /> Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
 
 ___
 
