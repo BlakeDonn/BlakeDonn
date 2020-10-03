@@ -19,5 +19,5 @@
 </div>
 ___
 <div align="center">
-  ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark) 
+  <p>![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark)</p>
 </div>
