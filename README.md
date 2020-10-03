@@ -49,7 +49,9 @@
 
 
 <div align="center"> 
+  <a href="https://github.com/BlakeDonn/github-readme-stats">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark"/>
+  </a>
   <a href="https://github.com/BlakeDonn/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine" />
   </a>
