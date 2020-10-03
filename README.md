@@ -1,5 +1,13 @@
 ###                                                Blake Donnelly
 
+- 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
+- :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr), [Create-React-App](https://github.com/facebook/create-react-app)
+- :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
+- 😄&nbsp;  Pronouns:&nbsp;  He / Him
+- :video_game:&nbsp;  Video Game Enthusiast 
+- 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
+- :keyboard:&nbsp;  Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
+
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -13,14 +21,4 @@
 <div align="center"> 
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark"/>
  <div/>
-
-- 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr), [Create-React-App](https://github.com/facebook/create-react-app)
-- :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
-- 😄&nbsp;  Pronouns:&nbsp;  He / Him
-- :video_game:&nbsp;  Video Game Enthusiast 
-- 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
-- :keyboard:&nbsp;  Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
-
-
 
