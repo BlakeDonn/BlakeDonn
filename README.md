@@ -15,7 +15,7 @@
   <img alt=CSS-3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Vim%20-%2343853D.svg?&style=for-the-badge&logo=Vim&logoColor=%23EFF7FF" />
+  <img alt="Neovim" src="https://img.shields.io/badge/NEOVIM%20-%2343853D.svg?&style=for-the-badge&logo=Vim&logoColor=%23EFF7FF" />
 </div>
 ___
 
