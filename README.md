@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Blake Donnelly</h1>
-  <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99" />
+  <a href="https://www.linkedin.com/in/blake-donnelly/"> <img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99"/></a>
   <img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=flat-square&logo=codewars&colorB=b1361e" />
   <img alt=leetcode" src="https://img.shields.io/badge/-LeetCode-black.svg?style=flat-square&logo=leetcode&colorB=000000" />
   <img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=flat-square&logo=google&colorB=f2c236" />
