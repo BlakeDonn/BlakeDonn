@@ -26,7 +26,9 @@
   <img alt="SASS" src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=%23EFF7FF" />
   <img alt="Neovim" src="https://img.shields.io/badge/NEOVIM%20-%2343853D.svg?&style=for-the-badge&logo=Neovim&logoColor=%23EFF7FF" />
 </div>
+
 ---
+
 <div align="center"> 
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark"/>
  <div/>
