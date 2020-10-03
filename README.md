@@ -3,7 +3,6 @@
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr), [Create-React-App](https://github.com/facebook/create-react-app)
 - :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
-- 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
 - :keyboard:&nbsp;  Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
