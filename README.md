@@ -31,7 +31,7 @@
 </div>
 
 ### Packages: 
-<div>
+<div align="center>
     <p><a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
       <a href="https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md">CanvasJS</a>, &nbsp;  
