@@ -6,7 +6,7 @@
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
 - 📫&nbsp;  Contact me!  [linkedin](https://www.linkedin.com/in/blake-donnelly/)  || [codewars](https://www.codewars.com/users/blakedonn) || blake.donnelly2@yahoo.com
-- :question:&nbsp;  Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
+- :keyboard:&nbsp;  Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
 
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
