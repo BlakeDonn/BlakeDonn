@@ -6,8 +6,7 @@
   <a href="mailto:youremailaddress"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=flat-square&logo=google&colorB=f2c236" /></a>
 </div>
                                                                                                                    
----
-### Technical About Me:       
+---   
 
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
@@ -17,6 +16,7 @@
 - :keyboard:&nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) / [Dvorak layout](https://www.dvorak-keyboard.com/) 
 - :metal:&nbsp; Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc) 
 
+---
 
 ### Languages: 
 
