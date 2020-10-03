@@ -18,6 +18,5 @@
   <img alt="Neovim" src="https://img.shields.io/badge/NEOVIM%20-%2343853D.svg?&style=for-the-badge&logo=Neovim&logoColor=%23EFF7FF" />
 </div>
 ___
-
- ![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark)
+<div align="center"> [Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark)<div/>
 
