@@ -1,4 +1,4 @@
-###                                                Blake Donnelly
+
 
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
@@ -10,6 +10,8 @@
 
 </div>
 
+---
+###                                                Blake Donnelly
 ---
 
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
