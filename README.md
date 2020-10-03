@@ -45,12 +45,11 @@
 </div>
 
 ---
-![smiley](smiley.png){:height="36px" width="36px"}
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine" />
 </a>
 
