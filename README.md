@@ -1,7 +1,7 @@
 ###                                                Blake Donnelly
 
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr)
+- :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr), [Create-React-App](https://github.com/facebook/create-react-app)
 - :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
 - 😄&nbsp;  Pronouns:&nbsp;  He / Him
 - :video_game:&nbsp;  Video Game Enthusiast 
