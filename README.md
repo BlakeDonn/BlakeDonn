@@ -19,6 +19,6 @@
 </div>
 ___
 <div align="center"> 
-  <div>![Blake's github stats](https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark)</div>
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark"/>
  <div/>
 
