@@ -45,12 +45,20 @@
 </div>
 
 ---
-
+<table>
+<tr>
+<td>
+<pre>
 <a>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
+  <img align="center" width= "95%" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 </a>
+</pre>
+</td>
+<td>
 <a>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine" />
-</a>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine" />
+</a
+</td>
+</tr>
+</table>
 
