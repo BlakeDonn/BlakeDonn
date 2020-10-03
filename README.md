@@ -1,5 +1,12 @@
 ###                                                Blake Donnelly
 
+<div align="center">
+  <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99" />
+  <img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=flat-square&logo=codewars&colorB=b1361e" />
+  <img alt=leetcode" src="https://img.shields.io/badge/-LeetCode-black.svg?style=flat-square&logo=leetcode&colorB=000000" />
+  <img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=flat-square&logo=google&colorB=f2c236" />
+</div>
+
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
 - :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr), [Create-React-App](https://github.com/facebook/create-react-app)
@@ -20,4 +27,5 @@
 <div align="center"> 
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark"/>
  <div/>
+
 
