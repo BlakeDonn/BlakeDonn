@@ -1,7 +1,6 @@
 ###                                                Blake Donnelly
-<div>Logo created by <a href="https://www.designevo.com/logo-maker/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
-
 <div align="center">
+<img alt="logo-banner" width = 100% src="./logo.jpg"/></br></br>
   <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99" />
   <img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=flat-square&logo=codewars&colorB=b1361e" />
   <img alt=leetcode" src="https://img.shields.io/badge/-LeetCode-black.svg?style=flat-square&logo=leetcode&colorB=000000" />
