@@ -1,4 +1,5 @@
 ###                                                Blake Donnelly
+<div>Logo created by <a href="https://www.designevo.com/logo-maker/" title="Free Online Logo Maker">DesignEvo logo maker</a></div>
 
 <div align="center">
   <img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99" />
