@@ -12,7 +12,6 @@
 
 ---
 ###                                                Blake Donnelly
----
 
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr)
