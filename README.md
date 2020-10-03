@@ -14,7 +14,7 @@
 - :computer:&nbsp; On the side: Looking for / coming up with a backend project
 - :thinking: What I want to learn next: Debating between C++ / Python / Rust
 - :keyboard:&nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) / [Dvorak layout](https://www.dvorak-keyboard.com/) 
-- :metal:&nbsp; Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc) 
+- :metal:&nbsp; Check out my: [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc) 
 
 ---
 
