@@ -16,11 +16,12 @@
 - :keyboard:&nbsp;  Ask Me About: [Neovim](https://neovim.io/) / Check out my [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
 - :video_game:&nbsp;  Video Game Enthusiast
 
+---
 
+### Languages: 
 
 <div align="center">
   <h3>Languagues</h3>
-  <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt=node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="html-5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,7 +31,15 @@
 </div>
 
 ### Packages: 
-- :package:&nbsp;  Package Experience: [Mocha](https://www.npmjs.com/package/mocha) / [Chai](https://www.npmjs.com/package/chai), [CanvasJS](https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md), [Express](https://www.npmjs.com/package/express), [Webpack](https://www.npmjs.com/package/webpack), [Flatpickr](https://www.npmjs.com/package/flatpickr), [Create-React-App](https://github.com/facebook/create-react-app)
+
+<ul class="navigation">
+    <li><a href="https://www.npmjs.com/package/mocha">Mocha</a></li>
+    <li><a href="https://www.npmjs.com/package/chai">Chai</a></li>
+    <li><a href="https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md">CanvasJS</a></li>
+    <li><a href="https://www.npmjs.com/package/webpack">Webpack</a></li>
+    <li><a href="https://www.npmjs.com/package/flatpickr">flatpickr</a><li>
+    <li><a href="https://github.com/facebook/create-react-app">Create-React-App</a><li>
+</ul> 
 
 ---
 
