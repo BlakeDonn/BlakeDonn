@@ -45,12 +45,13 @@
 </div>
 
 ---
+![smiley](smiley.png){:height="36px" width="36px"}
 
-<a href="https://github.com/BlakeDonn/github-readme-stats">
-  <img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/BlakeDonn/github-readme-stats">
-  <img align="center" width=50% src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine" />
 </a>
 
 
