@@ -10,7 +10,6 @@
 
 </div>
 
----
 ###                                                Blake Donnelly
 
 - 🔭&nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
