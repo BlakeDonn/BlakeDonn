@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/blake-donnelly/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=1C5D99"/></a>
   <a href="https://www.codewars.com/users/blakedonn"><img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=flat-square&logo=codewars&colorB=b1361e" /></a>
   <a href="https://leetcode.com/dunadine/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-black.svg?style=flat-square&logo=leetcode&colorB=000000" /></a>
-  <a href="bdonne39@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=flat-square&logo=google&colorB=f2c236" /></a>
+  <a href="mailto:youremailaddress"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=flat-square&logo=google&colorB=f2c236" /></a>
 </div>
                                                                                                                    
 ---
