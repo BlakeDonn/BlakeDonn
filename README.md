@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="logo" src=./assets/1.png>
+  <img alt="banner" src=./assets/newbanner.png>
   <a href="https://www.linkedin.com/in/blake-donnelly/"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a>
   <a href="https://www.codewars.com/users/blakedonn"><img alt="codewars" src="https://img.shields.io/badge/-Codewars-b1361e.svg?style=for-the-badge&logo=codewars&colorB=b1361e" /></a>
   <a href="https://leetcode.com/dunadine/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-black.svg?style=for-the-badge&logo=leetcode&colorB=000000" /></a>
