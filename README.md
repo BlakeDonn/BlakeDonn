@@ -37,7 +37,7 @@
 <div align="center">
     <p><a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
-      <a href="https://github.com/BlakeDonn/BlakeDonn/edit/master/README.md">CanvasJS</a>, &nbsp;  
+      <a href="https://www.npmjs.com/package/canvasjs">CanvasJS</a>, &nbsp;  
       <a href="https://www.npmjs.com/package/webpack">Webpack</a>, &nbsp;  
       <a href="https://www.npmjs.com/package/flatpickr">flatpickr</a>, &nbsp;  
       <a href="https://github.com/facebook/create-react-app">Create-React-App</a>
