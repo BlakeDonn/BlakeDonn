@@ -42,7 +42,8 @@
       <a href="https://www.npmjs.com/package/flatpickr">flatpickr</a>, &nbsp;  
       <a href="https://github.com/facebook/create-react-app">Create-React-App</a>
   </p>
-</div align ="center">
+</div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 <table>
 <tr>
@@ -58,4 +59,5 @@
   
 </tr>
 </table>
+</div>
 
