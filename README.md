@@ -43,14 +43,10 @@
       <a href="https://github.com/facebook/create-react-app">Create-React-App</a>
   </p>
 </div>
+<img align="center" width= "95%" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 
 <table>
 <tr>
-<td>
-<a>
-  <img align="center" width= "95%" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
-</a>
-</td>
 <td>
 <a>
   <img align="center" width="200%" src="https://wakatime.com/share/@dunadine/af9f9a07-e7a0-4a2a-861d-8d43d0767d90.svg" />
