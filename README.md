@@ -55,7 +55,7 @@
 </a>
 <td>
 <a>
-  <img align="center" width="500px" src="https://wakatime.com/share/@dunadine/ba57ac65-3783-400f-8d91-0e23b31dac72.svg" />
+  <img align="center" width="500px" src="https://wakatime.com/share/@dunadine/8ecc93bd-cfe5-4eab-8b35-170f357f26c9.svg" />
 </a
 </td>
 </tr>
