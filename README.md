@@ -60,6 +60,5 @@
 </td>
 </tr>
 </table>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 </div>
 
