@@ -44,7 +44,6 @@
   </p>
 </div>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 <table>
 <tr>
 <td>
@@ -56,8 +55,8 @@
   <img align="center" width="500px" src="https://wakatime.com/share/@dunadine/ba57ac65-3783-400f-8d91-0e23b31dac72.svg" />
 </a
 </td>
-  
 </tr>
 </table>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 </div>
 
