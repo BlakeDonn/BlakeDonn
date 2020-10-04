@@ -43,6 +43,9 @@
       <a href="https://github.com/facebook/create-react-app">Create-React-App</a>
   </p>
 </div>
+
+---
+
 <div align="center">
 <table>
 <tr>
