@@ -51,7 +51,7 @@
 <tr>
 <td>
 <a>
-  <img align="center" width="500px" src="https://wakatime.com/share/@dunadine/f81e4cc6-4c64-49cc-ac15-b3f0b09e8f85.svg" />
+  <img align="center" width="500px" src="https://wakatime.com/share/@dunadine/17bc2ba7-88e5-46c7-8edf-1934a62e675c.svg" />
 </a>
 <td>
 <a>
