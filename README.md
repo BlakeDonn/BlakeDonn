@@ -43,7 +43,7 @@
       <a href="https://github.com/facebook/create-react-app">Create-React-App</a>
   </p>
 </div>
-<img align="center" width= "95%" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 <table>
 <tr>
 <td>
