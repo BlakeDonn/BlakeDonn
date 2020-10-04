@@ -50,15 +50,9 @@
 <a>
   <img align="center" width= "95%" src="https://github-readme-stats.vercel.app/api?username=BlakeDonn&count_private=true&show_icons=true&theme=dark" />
 </a>
-</td>
-  <td>
-<a>
-  <img align="center "width="100%" src="https://wakatime.com/share/@dunadine/af9f9a07-e7a0-4a2a-861d-8d43d0767d90.svg" />
-</a
-</td>
 <td>
 <a>
-  <img align="center "width="100%" src="https://wakatime.com/share/@dunadine/ba57ac65-3783-400f-8d91-0e23b31dac72.svg" />
+  <img align="center "width="500px"src="https://wakatime.com/share/@dunadine/ba57ac65-3783-400f-8d91-0e23b31dac72.svg" />
 </a
 </td>
   
