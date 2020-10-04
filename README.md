@@ -53,7 +53,12 @@
 </td>
 <td>
 <a>
-  <img align="center" height="125%" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dunadine&repo=convoychat" />
+  <img align="center" width="200%" src="https://wakatime.com/share/@dunadine/8e1b4dae-4842-4f36-a754-bf773bf0336a.svg" />
+</a
+</td>
+<td>
+  <a>
+  <img align="center" width="200%" src="https://wakatime.com/share/@dunadine/9410c7ae-0441-4195-bc87-a828d0a82599.svg"" />
 </a
 </td>
 </tr>
