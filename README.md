@@ -18,7 +18,6 @@
 - :thinking:&nbsp; &nbsp; What I want to learn next: Debating between C++ / Python / Rust
 - :keyboard:&nbsp; &nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) / [Dvorak layout](https://www.dvorak-keyboard.com/) 
 - :metal:&nbsp; &nbsp; Check out my: [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc) 
-
 ---
 
 ### Languages: 
