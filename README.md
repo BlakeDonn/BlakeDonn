@@ -13,9 +13,9 @@
 
 - 🔭&nbsp; &nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; &nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
-- :book:&nbsp; &nbsp; Currently Learning: React
+- :book:&nbsp; &nbsp; Currently Learning: React -> node -> express -> postgreSQL stack
 - :computer:&nbsp; &nbsp; On the side: Looking for / coming up with a backend project
-- :thinking:&nbsp; &nbsp; What I want to learn next: Debating between C++ / Python / Rust
+- :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
 - :keyboard:&nbsp; &nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) / [Dvorak layout](https://www.dvorak-keyboard.com/) 
 - :metal:&nbsp; &nbsp; Check out my: [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc) 
 ---
