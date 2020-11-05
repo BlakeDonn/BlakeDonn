@@ -12,7 +12,7 @@
 ---   
 
 - 🔭&nbsp; &nbsp;  I’m currently in Mod 3 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :fire:&nbsp; &nbsp; Most Recent Project: [FitBit dashboard emulation](https://github.com/BlakeDonn/fitlit-starter-kit)
+- :fire:&nbsp; &nbsp; Most Recent Project: [Indecision Maker](https://github.com/nicolegooden/indecision-maker/pull/66)
 - :book:&nbsp; &nbsp; Currently Learning: React -> Node -> Express -> PostgreSQL stack
 - :computer:&nbsp; &nbsp; On the side: Looking for / coming up with a backend project
 - :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
