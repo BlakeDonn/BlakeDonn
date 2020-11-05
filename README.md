@@ -34,12 +34,17 @@
 
 ### Packages: 
 <div align="center">
-    <p><a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
+    <p>
+      <a href="https://github.com/facebook/create-react-app">Create-React-App</a>,  &nbsp; 
+      <a href="https://reactrouter.com/">React Router</a>, &nbsp; 
+      <a href="https://jestjs.io/en/">Jest</a>, &nbsp; 
+      <a href="https://knexjs.org/">Knex</a>, &nbsp; 
+      <a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
       <a href="https://www.npmjs.com/package/canvasjs">CanvasJS</a>, &nbsp;  
-      <a href="https://www.npmjs.com/package/webpack">Webpack</a>, &nbsp;  
-      <a href="https://www.npmjs.com/package/flatpickr">flatpickr</a>, &nbsp;  
-      <a href="https://github.com/facebook/create-react-app">Create-React-App</a>
+      <a href="https://www.npmjs.com/package/webpack">Webpack</a>
+      
+      
   </p>
 </div>
 
