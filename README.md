@@ -36,9 +36,9 @@
 <div align="center">
     <p>
       <a href="https://github.com/facebook/create-react-app">Create-React-App</a>,  &nbsp; 
-      <a href="https://testing-library.com/docs/react-testing-library/intro/">Create-React-App</a>,  &nbsp; 
-      <a href="https://reactrouter.com/">React Router</a>, &nbsp; 
+      <a href="https://testing-library.com/docs/react-testing-library/intro/">React testing library</a>,  &nbsp; 
       <a href="https://jestjs.io/en/">Jest</a>, &nbsp; 
+      <a href="https://reactrouter.com/">React Router</a>, &nbsp; 
       <a href="https://knexjs.org/">Knex</a>, &nbsp; 
       <a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
