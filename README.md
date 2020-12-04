@@ -45,9 +45,8 @@
       <a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
       <a href="https://www.npmjs.com/package/canvasjs">CanvasJS</a>, &nbsp;  
-      <a href="https://www.npmjs.com/package/webpack">Webpack</a>
-      
-      
+      <a href="https://www.npmjs.com/package/webpack">Webpack</a> 
+      <a href="https://www.npmjs.com/package/axios">Axios</a>
   </p>
 </div>
 
