@@ -12,7 +12,7 @@
 ---   
 
 - 🔭&nbsp; &nbsp;  I’m currently in Mod 4 of the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :fire:&nbsp; &nbsp; Most Recent Project: [Indecision Maker](https://github.com/nicolegooden/indecision-maker)
+- :fire:&nbsp; &nbsp; Most Recent Project: [Dream Home](https://github.com/Dream-Home-PEABOT/FEE_DreamHome)
 - :book:&nbsp; &nbsp; Currently Learning: [Legacy Open Source FE/BE Collaboration](https://github.com/atulmy/crate)
 - :computer:&nbsp; &nbsp; On the side: Looking for / coming up with a backend project
 - :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
