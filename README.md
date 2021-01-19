@@ -24,6 +24,8 @@
 ### Technologies: 
 <div align="center">
   <img alt="javascript" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=%23231123" />
+  <img alt="typescript" src="https://img.shields.io/badge/typescript%20-%231572B6.svg?&style=for-the-badge&logo=typescript&logoColor=%23231123" />
+  <img alt="jest" src="https://img.shields.io/badge/jest%20-%23231123.svg?&style=for-the-badge&logo=jest&logoColor=%23E34F26" />
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="html-5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -33,14 +35,15 @@
   <img alt="postgreSQL" src="https://img.shields.io/badge/postgreSQL%20-%231572B6.svg?&style=for-the-badge&logo=postgreSQL&logoColor=%2f6792" />
 </div>
 
-### Packages: 
+### Other Tech: 
 <div align="center">
     <p>
-      <a href="https://www.npmjs.com/package/express">Express</a>,  &nbsp; 
-      <a href="https://www.npmjs.com/package/axios">Axios</a>,  &nbsp; 
-      <a href="https://jestjs.io/en/">Jest</a>, &nbsp; 
+      <a href="https://reactjs.org/docs/hooks-intro.html">React-Hooks</a>, &nbsp; 
+      <a href="https://react-redux.js.org/">React-Redux</a>, &nbsp; 
       <a href="https://testing-library.com/docs/react-testing-library/intro/">React testing library</a>,  &nbsp; 
       <a href="https://reactrouter.com/">React Router</a>, &nbsp; 
+      <a href="https://www.npmjs.com/package/express">Express</a>,  &nbsp; 
+      <a href="https://www.npmjs.com/package/axios">Axios</a>,  &nbsp; 
       <a href="https://knexjs.org/">Knex</a>, &nbsp; 
       <a href="https://www.npmjs.com/package/mocha">Mocha </a>/ 
       <a href="https://www.npmjs.com/package/chai">Chai</a>, &nbsp;  
