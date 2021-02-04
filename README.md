@@ -13,7 +13,7 @@
 
 - :mortar_board:&nbsp; &nbsp;  Recently graduated! from the Front End program at [Turing School Of Software and Design](https://turing.io/)
 - :fire:&nbsp; &nbsp; Most Recent Project: [Dream Home](https://github.com/Dream-Home-PEABOT/FEE_DreamHome)
-- :computer:&nbsp; &nbsp; On the side: Building a fullstack family-collaboration site
+- :computer:&nbsp; &nbsp; On the side: Learning C++
 - :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
 - :keyboard:&nbsp; &nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) 
 - :metal:&nbsp; &nbsp; Check out my: [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
