@@ -16,7 +16,7 @@
 - :computer:&nbsp; &nbsp; On the side: Learning C++
 - :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
 - :keyboard:&nbsp; &nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) 
-- :metal:&nbsp; &nbsp; Check out my: [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
+
 
 ---
 
