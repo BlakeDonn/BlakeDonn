@@ -11,10 +11,10 @@
                                                                                                                    
 ---   
 
-- :mortar_board:&nbsp; &nbsp;  Recently graduated! from the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :fire:&nbsp; &nbsp; Most Recent Project: [Dream Home](https://github.com/Dream-Home-PEABOT/FEE_DreamHome)
-- :computer:&nbsp; &nbsp; On the side: Learning C++
-- :thinking:&nbsp; &nbsp; What I want to learn next: Debating between Lower level languages (would love any insight!)
+- :mortar_board:&nbsp; &nbsp;   Graduated from the Front End program at [Turing School Of Software and Design](https://turing.io/)
+- :fire:&nbsp; &nbsp; Most Recent Project: [TrustyStack]([https://github.com/Dream-Home-PEABOT/FEE_DreamHome](https://github.com/BlakeDonn/TrustyStack))
+- :computer:&nbsp; &nbsp; On the side: Learning Rust, personal projects.
+- :thinking:&nbsp; &nbsp; What I want to learn next: C++ / Game dev
 - :keyboard:&nbsp; &nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) 
 - :metal:&nbsp; &nbsp; Check out my: [.vimrc](https://github.com/BlakeDonn/dotfiles/blob/master/.vimrc)
 
