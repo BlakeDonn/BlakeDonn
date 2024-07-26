@@ -12,7 +12,7 @@
 ---   
 
 - :mortar_board:&nbsp; &nbsp;   Graduated from the Front End program at [Turing School Of Software and Design](https://turing.io/)
-- :fire:&nbsp; &nbsp; Most Recent Project: [TrustyStack]([https://github.com/Dream-Home-PEABOT/FEE_DreamHome](https://github.com/BlakeDonn/TrustyStack))
+- :fire:&nbsp; &nbsp; Most Recent Project: [TrustyStack](https://github.com/BlakeDonn/TrustyStack)
 - :computer:&nbsp; &nbsp; On the side: Learning Rust, personal projects.
 - :thinking:&nbsp; &nbsp; What I want to learn next: C++ / Game dev
 - :keyboard:&nbsp; &nbsp;  Ask Me About: Switching to [Neovim](https://neovim.io/) 
